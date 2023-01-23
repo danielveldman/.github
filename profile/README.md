@@ -37,7 +37,7 @@
     <td width=250px align="center"> <a href="https://github.com/danielveldman/sheep_herding_game.git"> <img src="https://github.com/danielveldman/sheep_herding_game/blob/main/screen_shot.PNG" height=150px> </a> </td>
     <td width = 800px> 
     <a href="https://github.com/danielveldman/sheep_herding_game.git">Sheep herding game</a> <br> <br>
-    by <a href="https://github.com/danielveldman">Daniël Veldman</a> <br> <br>
+    <br> <br> <br>
     See also on our website: <a href="https://dcn.nat.fau.eu/sheep-herding-game/">Sheep Herding Game</a>, <br>
     <a href="https://dcn.nat.fau.eu/fau-dcn-avh-at-ndw22-long-night-of-sciences/"> FAU DCN-AvH at #NdW22 Long Night of Sciences </a>
     </td>
