@@ -3,7 +3,16 @@
 ## Teaching
 <table style="padding:10px">
   <tr>
-    <td width=250px align="center"> <a href="https://github.com/danielveldman/practical_course_SS2022"> <img src="https://github.com/danielveldman/rbm-mpc/blob/main/Icon.PNG" height = 150px ></a></td>
+    <td width=400px align="center"> <a href="https://github.com/danielveldman/CPDE2022_Summer_School"> <img src="https://github.com/danielveldman/.github/blob/main/profile/DCN_logo.png" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/danielveldman/CPDE2022_Summer_School"> A Practical Introduction to Control, Numerics and Machine Learning </a> <br> <br> 
+    Summer school in Kiel, Germany, September 2022 <br>
+    IFAC CPDE 2022 Workshop on Control of Systems Governed by Partial Differential Equations <br> <br>
+    See also at <a href="https://dcn.nat.fau.eu/course-a-practical-introduction-to-control-numerics-and-machine-learning-ifac-cpde-2022/"> DCN-FAU-AvH Akademy </a> and at the <a href="https://cpde2022.org/summer-school/"> IFAC CPDE 2022 website </a>
+    </td>
+  </tr>
+  <tr>
+    <td width=400px align="center"> <a href="https://github.com/danielveldman/practical_course_SS2022"> <img src="https://github.com/danielveldman/.github/blob/main/profile/DCN_logo.png" height = 150px ></a></td>
     <td width = 800px> 
     <a href="https://github.com/danielveldman/practical_course_SS2022"> Practical course: Modeling, Simulation, Optimization (2022) </a> <br> <br> 
     master Computational and Applied Mathematics (CAM), Sommer Semester 2022 <br>
@@ -12,7 +21,7 @@
     </td>
   </tr>
   <tr>
-    <td width=250px align="center"> <a href="https://github.com/danielveldman/practical_course_SS2021"> <img src="https://github.com/danielveldman/rbm-mpc/blob/main/Icon.PNG" height = 150px ></a></td>
+    <td width=250px align="center"> <a href="https://github.com/danielveldman/practical_course_SS2021"> <img src="https://github.com/danielveldman/.github/blob/main/profile/DCN_logo.png" height = 150px ></a></td>
     <td width = 800px> 
     <a href="https://github.com/danielveldman/practical_course_SS2021"> Practical course: Modeling, Simulation, Optimization (2021) </a> <br> <br> 
     master Computational and Applied Mathematics (CAM), Sommer Semester 2021 <br>
