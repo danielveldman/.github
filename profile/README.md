@@ -30,7 +30,7 @@
     </td>
   </tr>
   <tr>
-    <td width=250px align="center"> <a href="https://github.com/danielveldman/structural_dynamics_2020Q1"> <img src="https://github.com/danielveldman/.github/blob/main/profile/tue_logo.png" height = 150px ></a></td>
+    <td width=250px align="center"> <a href="https://github.com/danielveldman/structural_dynamics_2020Q1"> <img src="https://github.com/danielveldman/.github/blob/main/profile/tue_logo.jpg" height = 150px ></a></td>
     <td width = 800px> 
     <a href="https://github.com/danielveldman/structural_dynamics_2020Q1"> Structural Dynamics </a> <br> <br> 
     master Mechanical Engineering (ME), Q1 (September-November) 2020 <br>
