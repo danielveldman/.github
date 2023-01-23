@@ -3,7 +3,7 @@
 ## Teaching
 <table style="padding:10px">
   <tr>
-    <td width=400px align="center"> <a href="https://github.com/danielveldman/CPDE2022_Summer_School"> <img src="https://github.com/danielveldman/.github/blob/main/profile/DCN_logo.png" height = 150px ></a></td>
+    <td width=400px align="center"> <a href="https://github.com/danielveldman/CPDE2022_Summer_School"> <img src="https://github.com/danielveldman/.github/blob/main/profile/IFAC_logo.jpg" height = 150px ></a></td>
     <td width = 800px> 
     <a href="https://github.com/danielveldman/CPDE2022_Summer_School"> A Practical Introduction to Control, Numerics and Machine Learning </a> <br> <br> 
     Summer school in Kiel, Germany, September 2022 <br>
