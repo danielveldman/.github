@@ -29,6 +29,14 @@
      See also at <a href="https://dcn.nat.fau.eu/practical-course-modeling-simulation-optimization/"> DCN-FAU-AvH Akademy </a> 
     </td>
   </tr>
+  <tr>
+    <td width=250px align="center"> <a href="https://github.com/danielveldman/structural_dynamics_2020Q1"> <img src="https://github.com/danielveldman/.github/blob/main/profile/tue_logo.png" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/danielveldman/structural_dynamics_2020Q1"> Structural Dynamics </a> <br> <br> 
+    master Mechanical Engineering (ME), Q1 (September-November) 2020 <br>
+    Eindhoven University of Technology, Eindhoven, the Netherlands <br> <br> <br>
+    </td>
+  </tr>
   
 </table>
 
