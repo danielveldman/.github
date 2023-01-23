@@ -1,6 +1,28 @@
 # Daniël Veldman
 
 ## Teaching
+<table style="padding:10px">
+  <tr>
+    <td width=250px align="center"> <a href="https://github.com/danielveldman/practical_course_SS2022"> <img src="https://github.com/danielveldman/rbm-mpc/blob/main/Icon.PNG" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/danielveldman/practical_course_SS2022"> Practical course: Modeling, Simulation, Optimization (2022) </a> <br> <br> 
+    master Computational and Applied Mathematics (CAM), Sommer Semester 2022 <br>
+    Friedrich-Alexander Universität, Erlangen-Nürnberg, Erlangen, Bavaria, Germany <br> <br>
+     See also at <a href="https://dcn.nat.fau.eu/practical-course-modeling-simulation-optimization/"> DCN-FAU-AvH Akademy </a> 
+    </td>
+  </tr>
+  <tr>
+    <td width=250px align="center"> <a href="https://github.com/danielveldman/practical_course_SS2021"> <img src="https://github.com/danielveldman/rbm-mpc/blob/main/Icon.PNG" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/danielveldman/practical_course_SS2021"> Practical course: Modeling, Simulation, Optimization (2021) </a> <br> <br> 
+    master Computational and Applied Mathematics (CAM), Sommer Semester 2021 <br>
+    Friedrich-Alexander Universität, Erlangen-Nürnberg, Erlangen, Bavaria, Germany <br> <br>
+     See also at <a href="https://dcn.nat.fau.eu/practical-course-modeling-simulation-optimization/"> DCN-FAU-AvH Akademy </a> 
+    </td>
+  </tr>
+  
+</table>
+
 
 ## Codes
 
